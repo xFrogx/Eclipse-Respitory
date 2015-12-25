@@ -1,0 +1,7 @@
+name: KitPvP
+author: Mr. xFrogx xKnightx
+version: 1.0
+main: me.xfrogx.kitpvp.Main
+commands:
+  Kit:
+    description: List of all available kits!
